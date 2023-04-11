@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This is the function for task 0"""
 
+
 def lookup(obj):
     """
         Function to return the sorted list of strings
