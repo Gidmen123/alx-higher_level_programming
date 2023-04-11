@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the function for task 5"""
+"""This is the function for task 6"""
 
 
 class BaseGeometry:
