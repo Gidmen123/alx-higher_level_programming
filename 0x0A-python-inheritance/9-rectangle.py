@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""This is the function for task 999999999Geometry = __import__('7-base_geometry').BaseGeometry
+"""This is the function for task 9"""
+BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
 class Rectangle(BaseGeometry):
