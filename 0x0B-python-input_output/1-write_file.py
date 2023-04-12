@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Defines a file-writing function."""
+"""This function takes a filename as an argument
+    and opens the file in
+    read mode with UTF-8 encoding"""
 
 
 def write_file(filename="", text=""):
